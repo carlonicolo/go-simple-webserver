@@ -8,6 +8,8 @@ Simple Golang webserver with only two 3 routes:
 /form
 ```
 
+![](simpleWebServer.png)
+
 ## How to execute and build
 
 ```bash
